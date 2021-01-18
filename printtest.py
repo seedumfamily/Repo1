@@ -1,6 +1,6 @@
 #use output formats
 
-name="john"
+name="johnBakerTest"
 age=25
 salary= 10000.25
 
